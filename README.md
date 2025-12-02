@@ -28,5 +28,5 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>  </p>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCTdlxpN40oRq28d7owUaaoj4y37IjSn5RNA&s" alt="python" width="40" height="40"/></a>  </p>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.citypng.com/photo/20680/hd-python-logo-symbol-transparent-png" alt="python" width="40" height="40"/></a>  </p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
