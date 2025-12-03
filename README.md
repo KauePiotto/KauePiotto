@@ -1,4 +1,4 @@
-## Hello! eu sou o Kaue Piotto, Desenvolvedor backend!
+## Hello! Eu sou o Kaue Piotto, Desenvolvedor Backend🚀
 
 <div>
   <a href="https://github.com/KauePiotto">
