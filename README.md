@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/HELLO! EU SOU O KAUE PIOTTO,-D00000?style=for-the-badge&logoColor=D00000">
+  <img src="https://img.shields.io/badge/Hello! My name is Kaue Piotto,-D00000?style=for-the-badge&logoColor=D00000">
   <img src="https://img.shields.io/badge/DESENVOLVEDOR BACKEND!⚡-FFC300?style=for-the-badge&logoColor=FFC300">
 </div>
 
