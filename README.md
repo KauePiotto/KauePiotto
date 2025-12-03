@@ -1,6 +1,9 @@
-<div align="center">  
-  <h2> HELLO! EU SOU O KAUE PIOTTO, DESENVOLVEDOR BACKEND! ⚡</h2>  
-</div
+<div align="center">
+  <img src="https://img.shields.io/badge/HELLO! EU SOU O KAUE PIOTTO,-D00000?style=for-the-badge&logoColor=D00000">
+
+  <img src="https://img.shields.io/badge/DESENVOLVEDOR BACKEND!⚡-FFC300?style=for-the-badge&logoColor=FFC300">
+  
+</div>
 
 <div>
   <a href="https://github.com/KauePiotto">
