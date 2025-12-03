@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/DESENVOLVEDOR BACKEND!⚡-FFC300?style=for-the-badge&logoColor=FFC300">
 </div>
 
-##
+---
 
 <div>
   <a href="https://github.com/KauePiotto">
@@ -24,7 +24,7 @@
   <img align="right" alt="Flash" width="300" height="500" src="https://i.gifer.com/JDf7.gif">
 </div>
 
-##
+---
 
 <div> 
   <a href="https://www.instagram.com/kauepiott0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
