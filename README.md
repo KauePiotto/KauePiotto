@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/KauePiotto">
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KauePiotto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KauePiotto&layout=compact&langs_count=8&theme=dark"/>
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KauePiotto&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=D00000&icon_color=D00000&text_color=FFC300&border_color=D00000"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KauePiotto&layout=compact&langs_count=8&bg_color=0D1117&title_color=D00000&icon_color=D00000&text_color=FFC300&border_color=D00000"/>
 </div>
 
 ### 🛠️ Minhas Habilidades:
