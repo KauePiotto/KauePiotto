@@ -1,7 +1,6 @@
-<div align="center"> 
-  
-  ## Hello! Eu sou o Kaue Piotto, Desenvolvedor Backend🚀
-</div>
+<div align="center">  
+  <h2> HELLO! EU SOU O KAUE PIOTTO, DESENVOLVEDOR BACKEND! ⚡</h2>  
+</div
 
 
 <div>
