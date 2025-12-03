@@ -25,4 +25,4 @@
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/kauepiotto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-![Snake animation](https://github.com/KauePiotto/KauePiotto/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/KauePiotto/KauePiotto/output/github-contribution-grid-snake-flash.svg" alt="Snake animation theme Flash" width="100%"/>
