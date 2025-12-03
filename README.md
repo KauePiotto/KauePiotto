@@ -16,7 +16,7 @@
   <img align="center" alt="MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="right" alt="Flash" height="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDN2MjM3dndwemk4eXNkMjJ2N3VhendqeW5vNnRweTlpeWQ1bHdxNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rKFQttrKxeiYg/giphy.gif">
+  <img align="right" alt="Flash" width="200" src="https://i.gifer.com/JDf7.gif">
 </div>
 
 ##
