@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/Hello! My name is Kaue Piotto,-D00000?style=for-the-badge&logoColor=D00000">
-  <img src="https://img.shields.io/badge/DESENVOLVEDOR BACKEND!⚡-FFC300?style=for-the-badge&logoColor=FFC300">
+  <img src="https://img.shields.io/badge/⚡ Hello! My name is Kaue Piotto ⚡-%23D00000?style=for-the-badge&labelColor=D00000&color=D00000&logoColor=white">
+  <img src="https://img.shields.io/badge/⚡ DESENVOLVEDOR BACKEND ⚡-%23FFC300?style=for-the-badge&labelColor=FFC300&color=FFC300&logoColor=black">
 </div>
 
 ---
